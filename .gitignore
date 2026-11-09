@@ -1,0 +1,10 @@
+# Never commit credentials or large artifacts
+*.key
+*.pem
+secrets*
+*.iso
+*.cab
+*.dmp
+*.png
+*.ppm
+__pycache__/
